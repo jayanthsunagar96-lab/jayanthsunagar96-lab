@@ -19,6 +19,16 @@
 - 🎬 Video editor and visual storyteller
 - 🌱 Currently learning and improving my development skills
 - 🚀 Building creative projects and exploring new technologies
+  
+
+## 🎓 Education
+
+- 🏫 **College:** Jain College of Davanagere
+- 💻 **Course:** Computer Science Engineering (CSE)
+- 📚 **Current Status:** UG 2nd Year Student
+- 🚀 **Interests:** Software Development, Android App Development, Web Development, and Technology
+
+> Learning, building, and improving every day!
 
 ---
 
