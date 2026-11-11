@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+Ideas+into+Reality;Learning+Something+New+Every+Day;Code.+Create.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5278C8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+Ideas+into+Reality;Learning+Something+New+Every+Day;Code.+Create.+Innovate." alt="Typing SVG" />
 </p>
 
 ---
@@ -40,14 +40,20 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayanthsunagar96-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthsunagar96-lab&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayanthsunagar96-lab&show_icons=true&theme=default&hide_border=true&title_color=5278C8&icon_color=7654B8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthsunagar96-lab&layout=compact&theme=default&hide_border=true&title_color=5278C8" />
 </p>
 
----
+## 💜 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jayanthsunagar96-lab&theme=default&hide_border=true&ring=7654B8&fire=5278C8&currStreakLabel=5278C8" />
+</p>
+
 
 ## 🔥 Contribution Streak
 
