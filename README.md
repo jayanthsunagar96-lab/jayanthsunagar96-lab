@@ -71,6 +71,12 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.instagram.com/_victorious_star_jantu_07_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 ---
 
 <p align="center">
