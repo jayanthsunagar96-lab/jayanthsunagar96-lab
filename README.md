@@ -54,15 +54,6 @@
   <img src="https://streak-stats.demolab.com?user=jayanthsunagar96-lab&theme=default&hide_border=true&ring=7654B8&fire=5278C8&currStreakLabel=5278C8" />
 </p>
 
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayanthsunagar96-lab&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
